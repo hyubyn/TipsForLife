@@ -1,0 +1,37 @@
+	Cách đo nhiệt độ
+	Hầu hết các loại nhiệt kế đều có màn hình hiển thị số. Một số nhiệt kế có thể đo nhiệt độ một cách nhanh chóng từ ống tai, đặc biệt tiện lợi đối với trẻ nhỏ và người lớn tuổi. Nhiệt kế khác có thể đo qua đường hậu môn-trực tràng, đường miệng hoặc dưới cánh tay (nách).
+    Nếu bạn sử dụng nhiệt kế kỹ thuật số, hãy đọc kỹ các hướng dẫn để bạn biết các tiếng bíp nghĩa là gì và khi nào thì đọc kết quả nhiệt độ. Trong những điều kiện bình thường, nhiệt độ có khuynh hướng cao nhất trong khoảng 4 đến 6 giờ chiều và thấp nhất vào khoảng 6 giờ sáng.
+	Do nguy cơ tiếp xúc hoặc nuốt thủy ngân, nhiệt kế thủy ngân thủy tinh đã dần được loại bỏ và không còn được khuyến khích sử dụng.
+	* Đo qua đường hậu môn (cho trẻ nhũ nhi)
+		- Bôi trơn đầu nhiệt kế bằng jelly hoặc các chất bôi trơn khác. Đặt đầu nhiệt kế vào hậu môn sâu khoảng 1.3-2.5 cm.
+		- Giữ trẻ nằm yên khoảng một phút, cho đến khi bạn nghe thấy tiếng bíp. Để tránh làm tổn thương trẻ, đừng bỏ đi khi bạn chưa lấy nhiệt kế ra.
+		- Lấy nhiệt kế ra và đọc kết quả nhiệt độ.
+	Đo nhiệt độ qua đường hậu môn cũng áp dụng cho người lớn tuổi khi khó thực hiện đo nhiệt độ qua đường miệng.
+	Nhìn chung nhiệt độ hậu môn cao hơn nhiệt độ ở miệng khoảng 0,5 o C. 
+	* Đo nhiệt độ qua đường miệng :
+		- Đặt đầu nhiệt kế ở dưới lưỡi
+		- Ngậm miệng khoảng 1 phút (hoặc theo thời gian khuyến cáo của dụng cụ) hay cho đến khi bạn nghe tiếng bíp
+	* Đo dưới cánh tay (nách)
+	Mặc dù đây không phải là biện pháp chính xác nhất để đo nhiệt độ, bạn vẫn có thể sử dụng nhiệt kế đường miệng để đo nhiệt độ ở nách:
+		- Đặt đầu nhiệt kế giữa nách, khép cánh tay lại.
+		- Giữ khoảng một phút hoặc cho đến khi bạn nghe thấy tiếng bíp. Lấy nhiệt kế ra và đọc nhiệt độ.
+	Để đo nhiệt độ ở nách của con bạn, có thể cho trẻ ngồi trên đùi bạn, người xoay về một bên. Đặt nhiệt kế dưới cánh tay của trẻ ngay sát ngực bạn. 
+	Nhiệt độ ở nách thường thấp hơn nhiệt độ ở miệng 1 khoảng 0,5 o C.
+
+	* Khi nào tìm sự giúp đỡ y tế
+		- Trẻ nhỏ hơn 3 tháng có nhiệt độ hậu môn ≥ 100.4 o F (38 o C), ngay cả khi trẻ không có dấu hiệu hoặc triệu chứng khác.
+		- Trẻ lớn hơn 3 tháng có sốt ≥ 102 o F (38,9 o C)
+		- Trẻ dưới 2 tuổi bị sốt kéo dài hơn một ngày, hoặc trẻ từ 2 tuổi trở lên bị sốt kéo dài hơn ba ngày
+		- Người lớn sốt > 103 o F (39,4 o C) hoặc sốt hơn ba ngày
+	* Khi nào cần tìm sự giúp đỡ khẩn cấp: Gọi cho bác sĩ ngay lập tức nếu trẻ bị sốt sau khi bị bỏ lại trong một chiếc xe hơi nóng hoặc nếu trẻ hay người lớn sốt kèm bất cứ triệu chứng nào sau đây:
+		- Nhức đầu dữ dội
+		- Đau họng
+		- Phát ban bất thường ở da
+		- Mắt tăng nhạy cảm với ánh sáng (khó chịu khi thấy ánh sáng) Đau và cứng cổ khi cúi đầu
+		- Lú lẫn, rối loạn tri giác
+		- Nôn ói liên tục
+		- Khó thở, đau ngực
+		- Li bì hay dễ kích thích
+		- Đau bụng hoặc đau khi đi tiểu
+		- Hoặc có những triệu chứng khác không giải thích được
+	nguồn: https://yhoccongdong.com/thongtin/so-cuu-sot/
