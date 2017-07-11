@@ -36,7 +36,7 @@ class DetailViewController: BaseViewController {
         contentLabel.snp.makeConstraints { (maker) in
             maker.leading.trailing.equalTo(view)
             maker.bottom.equalTo(view).inset(AppTheme.shared.bottomHeight)
-            maker.top.equalTo(closeButton.snp.bottom).offset(AppTheme.shared.smallMargin)
+            maker.top.equalTo(view).inset(AppTheme.shared.margin)
         }
         
                

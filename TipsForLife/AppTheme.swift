@@ -15,6 +15,8 @@ class AppTheme {
     
     var smallMargin = 10.0
     
+    var largerMargin = 30.0
+    
     var bottomHeight = 50.0
     
     var backgroundColor = UIColor.white

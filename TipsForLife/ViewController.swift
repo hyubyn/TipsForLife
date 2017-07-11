@@ -37,7 +37,7 @@ class ViewController: BaseViewController {
     lazy var colorPicker: ColorPicker = {
         let picker = ColorPicker()
         picker.delegate = self
-        picker.backgroundColor = UIColor.white
+        picker.backgroundColor = UIColor.clear
         return picker
     }()
     
@@ -67,7 +67,7 @@ class ViewController: BaseViewController {
         }
         
         colorPicker.snp.makeConstraints { (maker) in
-            maker.height.equalTo(80)
+            maker.height.equalTo(60)
             maker.leading.trailing.equalTo(view).inset(AppTheme.shared.smallMargin)
             maker.center.equalTo(view)
         }

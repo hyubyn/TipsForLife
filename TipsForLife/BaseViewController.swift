@@ -74,7 +74,7 @@ class BaseViewController: UIViewController {
         view.addSubview(closeButton)
         
         closeButton.snp.makeConstraints { (maker) in
-            maker.top.trailing.equalTo(view).inset(AppTheme.shared.margin)
+            maker.top.trailing.equalTo(view).inset(AppTheme.shared.largerMargin)
         }
         
         closeButton.rx

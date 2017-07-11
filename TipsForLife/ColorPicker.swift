@@ -23,11 +23,11 @@ class ColorPicker: UIView {
     lazy var collection: UICollectionView = {
         let flowLayout = UICollectionViewFlowLayout()
         flowLayout.itemSize = CGSize.init(width: 50, height: 50)
-        flowLayout.estimatedItemSize = CGSize.init(width: 70, height: 70)
+        flowLayout.estimatedItemSize = CGSize.init(width: 50, height: 50)
         flowLayout.minimumInteritemSpacing = 5.0
         flowLayout.scrollDirection = .horizontal
         flowLayout.sectionInset = UIEdgeInsetsMake(5, 5, 5, 5)
-        flowLayout.footerReferenceSize = CGSize.init(width: 70, height: 70)
+        flowLayout.footerReferenceSize = CGSize.init(width: 50, height: 50)
         let collectionView = UICollectionView(frame: CGRect.zero, collectionViewLayout: flowLayout)
         collectionView.delegate = self
         collectionView.dataSource = self
@@ -57,7 +57,7 @@ class ColorPicker: UIView {
             maker.edges.equalToSuperview()
         }
         
-        backgroundColor = UIColor.white
+        backgroundColor = UIColor.clear
         
         collection.backgroundColor = backgroundColor
         
