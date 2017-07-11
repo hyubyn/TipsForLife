@@ -1,30 +1,33 @@
 A life-threatening allergic reaction (anaphylaxis) can cause shock, a sudden drop in blood pressure and trouble breathing. In people who have an allergy, anaphylaxis can occur minutes after exposure to a specific allergy-causing substance (allergen). In some cases, there may be a delayed reaction or anaphylaxis may occur without an apparent trigger.
 
-If you're with someone having an allergic reaction with signs of anaphylaxis:
+* If you're with someone having an allergic reaction with signs of anaphylaxis:
 
-Immediately call 911 or your local medical emergency number.
-Ask the person if he or she is carrying an epinephrine autoinjector (EpiPen, Auvi-Q, others) to treat an allergic attack.
-If the person says he or she needs to use an autoinjector, ask whether you should help inject the medication. This is usually done by pressing the autoinjector against the person's thigh.
-Have the person lie still on his or her back.
-Loosen tight clothing and cover the person with a blanket. Don't give the person anything to drink.
-If there's vomiting or bleeding from the mouth, turn the person on his or her side to prevent choking.
-If there are no signs of breathing, coughing or movement, begin CPR. Do uninterrupted chest presses — about 100 every minute — until paramedics arrive.
-Get emergency treatment even if symptoms start to improve. After anaphylaxis, it's possible for symptoms to recur. Monitoring in a hospital for several hours is usually necessary.
-If you're with someone having signs and symptoms of anaphylaxis, don't wait to see whether symptoms get better. Seek emergency treatment right away. In severe cases, untreated anaphylaxis can lead to death within half an hour. An antihistamine pill, such as diphenhydramine (Benadryl), isn't sufficient to treat anaphylaxis. These medications can help relieve allergy symptoms, but work too slowly in a severe reaction.
+	- Immediately call 911 or your local medical emergency number.
+	- Ask the person if he or she is carrying an epinephrine autoinjector (EpiPen, Auvi-Q, others) to treat an allergic attack.
+	- If the person says he or she needs to use an autoinjector, ask whether you should help inject the medication. This is usually done by pressing the autoinjector against the person's thigh.
+	- Have the person lie still on his or her back.
+	- Loosen tight clothing and cover the person with a blanket. Don't give the person anything to drink.
+	- If there's vomiting or bleeding from the mouth, turn the person on his or her side to prevent choking.
+	- If there are no signs of breathing, coughing or movement, begin CPR. Do uninterrupted chest presses — about 100 every minute — until paramedics arrive.
+	- Get emergency treatment even if symptoms start to improve. After anaphylaxis, it's possible for symptoms to recur. Monitoring in a hospital for several hours is usually necessary.
 
-Signs and symptoms of anaphylaxis include:
+* If you're with someone having signs and symptoms of anaphylaxis, don't wait to see whether symptoms get better. Seek emergency treatment right away. In severe cases, untreated anaphylaxis can lead to death within half an hour. An antihistamine pill, such as diphenhydramine (Benadryl), isn't sufficient to treat anaphylaxis. These medications can help relieve allergy symptoms, but work too slowly in a severe reaction.
 
-Skin reactions, including hives, itching, and flushed or pale skin
-Swelling of the face, eyes, lips or throat
-Constriction of the airways, leading to wheezing and trouble breathing
-A weak and rapid pulse
-Nausea, vomiting or diarrhea
-Dizziness, fainting or unconsciousness
-Some common anaphylaxis triggers include:
+* Signs and symptoms of anaphylaxis include:
 
-Medications
-Foods such as peanuts, tree nuts, fish and shellfish
-Insect stings from bees, yellow jackets, wasps, hornets and fire ants
+	- Skin reactions, including hives, itching, and flushed or pale skin
+	- Swelling of the face, eyes, lips or throat
+	- Constriction of the airways, leading to wheezing and trouble breathing
+	- A weak and rapid pulse
+	- Nausea, vomiting or diarrhea
+	- Dizziness, fainting or unconsciousness
+
+* Some common anaphylaxis triggers include:
+
+	- Medications
+	- Foods such as peanuts, tree nuts, fish and shellfish
+	- Insect stings from bees, yellow jackets, wasps, hornets and fire ants
+
 If you've had any kind of severe allergic reaction in the past, ask your doctor if you should be prescribed an epinephrine autoinjector to carry with you.
 
 from: http://www.mayoclinic.org/first-aid/first-aid-anaphylaxis/basics/art-20056608
