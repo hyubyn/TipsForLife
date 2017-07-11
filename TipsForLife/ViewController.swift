@@ -34,7 +34,7 @@ class ViewController: BaseViewController {
             .throttle(0.3, scheduler: MainScheduler.instance)
             .subscribe(onNext: { [weak self] in
                 let detail = DetailViewController()
-                let path = "/Resource/VN/FirstAid"
+                let path = "/Resource/ENG/FirstAid"
                 let listFile: [String] = (self?.getListFile(path: path))!
                 let content = self?.getFileContent(fileName: listFile.first!, path: path)
                 print(content ?? "")
