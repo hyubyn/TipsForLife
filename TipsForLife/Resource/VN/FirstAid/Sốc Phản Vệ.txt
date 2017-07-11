@@ -1,24 +1,25 @@
-	Sốc phản vệ là một phản ứng dị ứng đe dọa đến tính mạng với tụt huyết áp và khó thở xảy ra đột ngột. Ở những người có cơ địa dị ứng, sốc phản vệ có thể xảy ra trong vòng vài phút sau khi tiếp xúc với tác nhân gây dị ứng. Trong một số trường hợp, phản ứng phản vệ có thể xảy ra chậm hoặc không biết tác nhân gây dị ứng.
-	Nếu bạn gặp một người đang có những biểu hiện của sốc phản vệ
-		- Hãy gọi cấp cứu ngay lập tức.
-		- Hỏi người đó xem anh/cô ta có mang theo thuốc chống dị ứng tức thời không.
-		- Nếu người đó nói rằng cần sử dụng dụng cụ tiêm tự động, hãy hỏi xem liệu bạn có thể giúp họ tiêm thuốc hay không, thường là tiêm vào đùi hoặc mông.
-		- Để người đó nằm ngửa trên mặt phẳng.
-		- Nới lỏng quần áo và đắp chăn cho họ. Không được cho họ uống bất kì thứ gì.
-		- Nếu người đó nôn mửa hoặc chảy máu miệng, hãy đặt họ nằm nghiêng để tránh bị hít sặc.
-		- Nếu không có dấu hiệu của hô hấp hoặc tuần hoàn, hãy tiến hành hồi sức tim phổi cho đến khi nhân viên y tế có mặt.
-		- Hãy tiếp tục hồi sức dù cho các triệu chứng có vẻ thuyên giảm. Sau khi ra khỏi sốc, vẫn có khả năng các triệu chứng sẽ tái lại. Kiểm tra ở các cơ sở y tế trong vài giờ là điều cần thiết.
-	Nếu bạn đang ở cùng với một người có dấu hiệu sốc phản vệ, hãy cấp cứu ngay lập tức mà không đợi cho các triệu chứng thuyên giảm. Trong những trường hợp nặng, sốc phản vệ không được can thiệp kịp thời sẽ gây tử vong trong vòng nửa giờ. Thuốc kháng histamine, ví dụ diphenhydramine, không đủ để chữa sốc phản vệ. Những dược phẩm này chỉ có thể làm giảm các triệu chứng dị ứng nhẹ, nhưng hiệu quả khá kém đối với trường hợp nặng.
-	Triệu chứng của sốc phản vệ bao gồm:
-		- Phản ứng da bao gồm phát ban loang lổ, ngứa.
-		- Mặt, mắt, môi hoặc cổ họng sưng phù.
-		- Tắc các đường dẫn khí gây khó thở và thở khò khè hoặc thở rít. Bắt mạch thấy nhanh và nảy nhẹ.
-		- Buồn nôn hoặc tiêu chảy.
-		- Chóng mặt, ngất.
+Sốc phản vệ là một phản ứng dị ứng đe dọa đến tính mạng với tụt huyết áp và khó thở xảy ra đột ngột. Ở những người có cơ địa dị ứng, sốc phản vệ có thể xảy ra trong vòng vài phút sau khi tiếp xúc với tác nhân gây dị ứng. Trong một số trường hợp, phản ứng phản vệ có thể xảy ra chậm hoặc không biết tác nhân gây dị ứng.
+	
+Nếu bạn gặp một người đang có những biểu hiện của sốc phản vệ
+	- Hãy gọi cấp cứu ngay lập tức.
+	- Hỏi người đó xem anh/cô ta có mang theo thuốc chống dị ứng tức thời không.
+	- Nếu người đó nói rằng cần sử dụng dụng cụ tiêm tự động, hãy hỏi xem liệu bạn có thể giúp họ tiêm thuốc hay không, thường là tiêm vào đùi hoặc mông.
+	- Để người đó nằm ngửa trên mặt phẳng.
+	- Nới lỏng quần áo và đắp chăn cho họ. Không được cho họ uống bất kì thứ gì.
+	- Nếu người đó nôn mửa hoặc chảy máu miệng, hãy đặt họ nằm nghiêng để tránh bị hít sặc.
+	- Nếu không có dấu hiệu của hô hấp hoặc tuần hoàn, hãy tiến hành hồi sức tim phổi cho đến khi nhân viên y tế có mặt.
+	- Hãy tiếp tục hồi sức dù cho các triệu chứng có vẻ thuyên giảm. Sau khi ra khỏi sốc, vẫn có khả năng các triệu chứng sẽ tái lại. Kiểm tra ở các cơ sở y tế trong vài giờ là điều cần thiết.
+Nếu bạn đang ở cùng với một người có dấu hiệu sốc phản vệ, hãy cấp cứu ngay lập tức mà không đợi cho các triệu chứng thuyên giảm. Trong những trường hợp nặng, sốc phản vệ không được can thiệp kịp thời sẽ gây tử vong trong vòng nửa giờ. Thuốc kháng histamine, ví dụ diphenhydramine, không đủ để chữa sốc phản vệ. Những dược phẩm này chỉ có thể làm giảm các triệu chứng dị ứng nhẹ, nhưng hiệu quả khá kém đối với trường hợp nặng.
+Triệu chứng của sốc phản vệ bao gồm:
+	- Phản ứng da bao gồm phát ban loang lổ, ngứa.
+	- Mặt, mắt, môi hoặc cổ họng sưng phù.
+	- Tắc các đường dẫn khí gây khó thở và thở khò khè hoặc thở rít. Bắt mạch thấy nhanh và nảy nhẹ.
+	- Buồn nôn hoặc tiêu chảy.
+	- Chóng mặt, ngất.
 
-	Một số tác nhân gây sốc phản vệ thường gặp
-		- Dược phẩm
-		- Một số thực phẩm như đậu phộng, trứng, cá, nghêu, sò,... Độc tố do côn trùng đốt như ong, kiến lửa,...
-	Nếu bạn đã từng có một phản ứng dị ứng nặng trong quá khứ, hãy hỏi bác sĩ liệu bạn có cần được kê ống tiêm tự động epinephrine để mang theo bên người.
+Một số tác nhân gây sốc phản vệ thường gặp
+	- Dược phẩm
+	- Một số thực phẩm như đậu phộng, trứng, cá, nghêu, sò,... Độc tố do côn trùng đốt như ong, kiến lửa,...
+Nếu bạn đã từng có một phản ứng dị ứng nặng trong quá khứ, hãy hỏi bác sĩ liệu bạn có cần được kê ống tiêm tự động epinephrine để mang theo bên người.
 
 	nguồn: https://yhoccongdong.com/thongtin/soc-phan-ve-trieu-chung-va-cach-so-cuu-soc-phan-ve/

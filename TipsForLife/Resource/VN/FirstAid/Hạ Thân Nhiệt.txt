@@ -1,21 +1,21 @@
-	Dấu hiệu và triệu chứng của hạ thân nhiệt:
-		- Run
-		- Nói líu lưỡi
-		- Thở chậm bất thường
-		- Da lạnh, nhợt nhạt
-		- Mất khả năng phối hợp
-		- Mệt mỏi, thờ ơ hoặc lãnh đạm
-		- Lú lẫn hoặc mất trí nhớ
-		- Da chuyển màu đỏ tươi và lạnh (ở trẻ sơ sinh)
-	Các dấu hiệu và triệu chứng thường tiến triển chậm. Người bị hạ thân nhiệt điển hình bị mất dần khả năng nhận thức và thể lực nên họ có thể không biết rằng mình cần được điều trị y tế khẩn cấp .
-	Người lớn tuổi, trẻ sơ sinh, trẻ nhỏ và những người rất gầy là các đối tượng có nguy cơ bị hạ thân nhiệt. Những đối tượng khác cũng có nguy cơ cao bị hạ thân nhiệt bao gồm người có tiền sử bệnh tâm thần hoặc bệnh Alzheimer và những người say rượu, người vô gia cư hoặc bị mắc kẹt trong thời tiết giá lạnh vì xe bị hư. Các tình trạng khác có thể làm tăng nguy cơ bị hạ thân nhiệt là suy dinh dưỡng, bệnh tim mạch và suy chức năng tuyến giáp (hypothyroidism).
+Dấu hiệu và triệu chứng của hạ thân nhiệt:
+	- Run
+	- Nói líu lưỡi
+	- Thở chậm bất thường
+	- Da lạnh, nhợt nhạt
+	- Mất khả năng phối hợp
+	- Mệt mỏi, thờ ơ hoặc lãnh đạm
+	- Lú lẫn hoặc mất trí nhớ
+	- Da chuyển màu đỏ tươi và lạnh (ở trẻ sơ sinh)
+Các dấu hiệu và triệu chứng thường tiến triển chậm. Người bị hạ thân nhiệt điển hình bị mất dần khả năng nhận thức và thể lực nên họ có thể không biết rằng mình cần được điều trị y tế khẩn cấp .
+Người lớn tuổi, trẻ sơ sinh, trẻ nhỏ và những người rất gầy là các đối tượng có nguy cơ bị hạ thân nhiệt. Những đối tượng khác cũng có nguy cơ cao bị hạ thân nhiệt bao gồm người có tiền sử bệnh tâm thần hoặc bệnh Alzheimer và những người say rượu, người vô gia cư hoặc bị mắc kẹt trong thời tiết giá lạnh vì xe bị hư. Các tình trạng khác có thể làm tăng nguy cơ bị hạ thân nhiệt là suy dinh dưỡng, bệnh tim mạch và suy chức năng tuyến giáp (hypothyroidism).
 	
-	Để cấp cứu cho người bị hạ thân nhiệt
-		- Gọi 115 hoặc trợ giúp y tế khẩn cấp. Trong khi chờ đợi trợ giúp, cần theo dõi sát hơi thở của nạn nhân. Nếu ngừng thở hoặc nhịp thở chậm dần hoặc thở nông, phải bắt đầu hồi sức tim phổi (CPR) ngay lập tức.
-		- Di chuyển nạn nhân ra khỏi môi trường lạnh. Nếu không thể di chuyển vào trong nhà, cần chắn gió, che kín đầu và cách ly với mặt đất lạnh.
-		- Cởi bỏ quần áo ướt, thay bằng các loại vải khô và ấm.
-		- Không được dùng các nguồn tạo nhiệt sưởi ấm trực tiếp người nạn nhân. Không sử dụng nước nóng,cao dán nóng hoặc đèn sưởi để làm ấm. Thay vào đó, hãy đắp gạc ấm tại các vùng trung tâm của cơ thể bao gồm đầu, cổ, ngực và bẹn. Không cố gắng làm ấm tay và chân vì sẽ giúp máu lạnh chạy về tim, phổi và não, làm thân nhiệt càng giảm hơn và có thể dẫn đến tử vong.
-		- Không cho nạn nhân uống rượu. Nếu không bị nôn, có thể cho uống nước ấm không cồn.
-		- Không xoa bóp hoặc chà xát người nạn nhân. Tiếp xúc nhẹ nhàng vì da của họ có thể bị cóng giá (tổn thương do lạnh giá), và chà xát vùng mô bị cóng giá có thể gây ra những tổn thương nghiêm trọng.
+Để cấp cứu cho người bị hạ thân nhiệt
+	- Gọi 115 hoặc trợ giúp y tế khẩn cấp. Trong khi chờ đợi trợ giúp, cần theo dõi sát hơi thở của nạn nhân. Nếu ngừng thở hoặc nhịp thở chậm dần hoặc thở nông, phải bắt đầu hồi sức tim phổi (CPR) ngay lập tức.
+	- Di chuyển nạn nhân ra khỏi môi trường lạnh. Nếu không thể di chuyển vào trong nhà, cần chắn gió, che kín đầu và cách ly với mặt đất lạnh.
+	- Cởi bỏ quần áo ướt, thay bằng các loại vải khô và ấm.
+	- Không được dùng các nguồn tạo nhiệt sưởi ấm trực tiếp người nạn nhân. Không sử dụng nước nóng,cao dán nóng hoặc đèn sưởi để làm ấm. Thay vào đó, hãy đắp gạc ấm tại các vùng trung tâm của cơ thể bao gồm đầu, cổ, ngực và bẹn. Không cố gắng làm ấm tay và chân vì sẽ giúp máu lạnh chạy về tim, phổi và não, làm thân nhiệt càng giảm hơn và có thể dẫn đến tử vong.
+	- Không cho nạn nhân uống rượu. Nếu không bị nôn, có thể cho uống nước ấm không cồn.
+	- Không xoa bóp hoặc chà xát người nạn nhân. Tiếp xúc nhẹ nhàng vì da của họ có thể bị cóng giá (tổn thương do lạnh giá), và chà xát vùng mô bị cóng giá có thể gây ra những tổn thương nghiêm trọng.
 	
 	nguồn: https://yhoccongdong.com/thongtin/so-cuu-ha-than-nhiet/

@@ -22,6 +22,7 @@
 		4F2D23FE1F13D5D900A96916 /* UIView+Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F2D23F91F13D5D900A96916 /* UIView+Gradient.swift */; };
 		4F2D23FF1F13D5D900A96916 /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F2D23FA1F13D5D900A96916 /* UIViewController.swift */; };
 		A4A678923CCCDC903FC0B973 /* Pods_TipsForLife.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 660F1F5ED9B32C7E65095008 /* Pods_TipsForLife.framework */; };
+		CB3E43001F14C1E700E47FD4 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB3E42FF1F14C1E700E47FD4 /* ListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		4F2D23FA1F13D5D900A96916 /* UIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewController.swift; sourceTree = "<group>"; };
 		617ADD2723A3A0C4E8A17BBE /* Pods-TipsForLife.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TipsForLife.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TipsForLife/Pods-TipsForLife.debug.xcconfig"; sourceTree = "<group>"; };
 		660F1F5ED9B32C7E65095008 /* Pods_TipsForLife.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TipsForLife.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB3E42FF1F14C1E700E47FD4 /* ListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		FDB27F62798F97584A2F7F17 /* Pods-TipsForLife.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TipsForLife.release.xcconfig"; path = "Pods/Target Support Files/Pods-TipsForLife/Pods-TipsForLife.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -90,6 +92,7 @@
 				4F2D23E51F11DE0D00A96916 /* Info.plist */,
 				4F2D23EF1F13D46F00A96916 /* DetailViewController.swift */,
 				4F2D23F11F13D4B300A96916 /* BaseViewController.swift */,
+				CB3E42FF1F14C1E700E47FD4 /* ListViewController.swift */,
 			);
 			path = TipsForLife;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				4F2D23F01F13D46F00A96916 /* DetailViewController.swift in Sources */,
 				4F2D23FC1F13D5D900A96916 /* UIColor.swift in Sources */,
 				4F2D23FF1F13D5D900A96916 /* UIViewController.swift in Sources */,
+				CB3E43001F14C1E700E47FD4 /* ListViewController.swift in Sources */,
 				4F2D23F21F13D4B300A96916 /* BaseViewController.swift in Sources */,
 				4F2D23DC1F11DE0D00A96916 /* ViewController.swift in Sources */,
 				4F2D23DA1F11DE0D00A96916 /* AppDelegate.swift in Sources */,

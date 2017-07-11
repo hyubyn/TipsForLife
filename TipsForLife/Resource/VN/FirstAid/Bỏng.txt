@@ -1,9 +1,10 @@
-	Để phân biệt bỏng nhẹ với bỏng nặng, bước đầu tiên là xác định vùng da (mô) bị ảnh hưởng. Có 3 mức độ bỏng: bỏng độ 1, bỏng độ 2, và bỏng độ 3. Phân loại độ bỏng giúp chúng ta xác định vấn đề cấp cứu.
+Để phân biệt bỏng nhẹ với bỏng nặng, bước đầu tiên là xác định vùng da (mô) bị ảnh hưởng. Có 3 mức độ bỏng: bỏng độ 1, bỏng độ 2, và bỏng độ 3. Phân loại độ bỏng giúp chúng ta xác định vấn đề cấp cứu.
 	* Bỏng độ 1
    		- Chỉ có lớp ngoài cùng của da bị bỏng. Đây là loại bỏng ít nguy hiểm nhất. Da thường bị đỏ.
 		- Thường có sưng phồng.
 		- Đôi khi đau.
 	Điều trị bỏng độ 1 như là loại bỏng nhẹ khi nó không ảnh hưởng bàn tay, bàn chân, mặt, bẹn, mông hoặc những khớp lớn.
+	
 	* Bỏng độ 2
 		- Khi lớp thứ nhất và lớp thứ 2 của da (lớp bì) đều bị bỏng. Xuất hiện bóng nước.
 		- Da đỏ rực.
@@ -19,6 +20,7 @@
 	* Chú ý
 		- Không dùng nước đá . Đắp trực tiếp nước đá lên vết bỏng có thể làm nhiệt độ cơ thể xuống thấp và làm vết bỏng nặng hơn.
 		- Không đắp lòng trắng trứng, bơ hoặc thuốc mỡ lên vết bỏng , vì nó có thể gây nhiểm khuẩn. Không làm vỡ vùng da bị phồng giộp . Các bóng nước bị vỡ sẽ dễ bị nhiễm khuẩn hơn.
+	
 	* Bỏng độ 3
 	Là độ bỏng nặng nhất, ảnh hưởng tất cả các lớp của da và gây phá hủy mô vĩnh viễn. Cơ, mỡ, thậm chí là xương đều có thể bị ảnh hưởng. Những vùng này có thể bị cháy đen hoặc trắng và khô. Suy hô hấp, ngộ độc khí CO, hoặc các triệu chứng nhiễm độc khác có thể xảy ra nếu bỏng kèm hít khói.
 	Với bỏng nặng, gọi 115 hoặc số cấp cứu tại địa phương bạn. Trong khi chờ đợi cấp cứu, hãy làm theo những bước sau:
@@ -27,6 +29,7 @@
 		3. Kiểm tra các dấu hiệu thở, ho, hoặc cử động . Nếu nạn nhân ngưng thở hoặc không có dấu hiệu của tuần hoàn, hãy bắt đầu hồi sức tim phổi (CPR).
 		4. Nâng cao bộ phận của cơ thể bị bỏng . Nâng cao hơn tim nếu có thể.
 		5. Che phủ vùng bị bỏng . Dùng băng mát, ẩm, tiệt trùng hoặc vải hay khăn sạch và ẩm.
+	
 	* Chích ngừa uốn ván
 	Bỏng có nguy cơ gây ra uốn ván. Các bác sĩ khuyến cáo nên chích ngừa uốn ván mỗi 10 năm. Nếu mũi tiêm cuối đã cách đây hơn 5 năm, bác sĩ có thể yêu cầu tiêm mũi tăng cường.
 	nguồn: https://yhoccongdong.com/thongtin/so-cuu-khi-bi-bong-phan-biet-do-bong-va-cach-dieu-tri/

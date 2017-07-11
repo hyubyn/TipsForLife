@@ -34,6 +34,8 @@ class BaseViewController: UIViewController {
         setupView()
         
         setupRx()
+        
+        changeTheme()
     }
 
     func setupView() {

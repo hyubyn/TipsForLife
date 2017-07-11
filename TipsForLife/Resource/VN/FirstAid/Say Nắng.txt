@@ -1,21 +1,22 @@
-	- Dấu hiệu:
-		+ Cảm giác choáng váng hoặc chóng mặt
-		+ Buồn nôn
-		+ Đổ mồ hôi nhiều
-		+ Nhịp tim nhanh và yếu
-		+ Huyết áp thấp
-		+ Da lạnh, tái, ẩm
-		+ Sốt nhẹ
-		+ Cơn chuột rút do nhiệt
-		+ Đau đầu
-		+ Mệt mỏi
-		+ Nước tiểu sẫm màu
-	- Sơ cứu:
-		+ Đưa nạn nhân ra khỏi ánh nắng mặt trời, di chuyển vào bóng râm hoặc nơi có máy điều hoà nhiệt độ
-		+ Đặt nạn nhân nằm xuống, nâng chân và bàn chân lên cao một chút
-		+ Nới lỏng hoặc cởi bỏ quần áo của nạn nhân
-		+ Cho nạn nhân uống nước lạnh hoặc nước giải khát không chứa cồn và caffeine
-		+ Làm mát người nạn nhân bằng cách phun hoặc làm ẩm với nước lạnh và quạt
-		+ Theo dõi nạn nhân cẩn thận vì say nắng có thể nhan hchongs chuyển qua sốc do nhiệt
-		+ Gọi 911 hoặc trợ giúp y tế khẩn cấp nếu tình trạng của nạn nhân xấu đi, đặc biệt là nếu xảy ra ngất xỉu, lú lẫn hoặc co giật, hoặc sốt từ 104oF (> 40oC) trở lên kết hợp với các triệu chứng khác.
+- Dấu hiệu:
+	+ Cảm giác choáng váng hoặc chóng mặt
+	+ Buồn nôn
+	+ Đổ mồ hôi nhiều
+	+ Nhịp tim nhanh và yếu
+	+ Huyết áp thấp
+	+ Da lạnh, tái, ẩm
+	+ Sốt nhẹ
+	+ Cơn chuột rút do nhiệt
+	+ Đau đầu
+	+ Mệt mỏi
+	+ Nước tiểu sẫm màu
+- Sơ cứu:
+	+ Đưa nạn nhân ra khỏi ánh nắng mặt trời, di chuyển vào bóng râm hoặc nơi có máy điều hoà nhiệt độ
+	+ Đặt nạn nhân nằm xuống, nâng chân và bàn chân lên cao một chút
+	+ Nới lỏng hoặc cởi bỏ quần áo của nạn nhân
+	+ Cho nạn nhân uống nước lạnh hoặc nước giải khát không chứa cồn và caffeine
+	+ Làm mát người nạn nhân bằng cách phun hoặc làm ẩm với nước lạnh và quạt
+	+ Theo dõi nạn nhân cẩn thận vì say nắng có thể nhan hchongs chuyển qua sốc do nhiệt
+	+ Gọi 911 hoặc trợ giúp y tế khẩn cấp nếu tình trạng của nạn nhân xấu đi, đặc biệt là nếu xảy ra ngất xỉu, lú lẫn hoặc co giật, hoặc sốt từ 104oF (> 40oC) trở lên kết hợp với các triệu chứng khác.
+	
 	nguồn: https://yhoccongdong.com/thongtin/so-cuu-say-nang/

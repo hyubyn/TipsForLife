@@ -20,4 +20,8 @@ class AppTheme {
     var backgroundColor = UIColor.white
     
     var mainColor = UIColor.white
+    
+    var mainFileSource = "/Resource/ENG/FirstAid"
+    
+    var mainFont = UIFont.systemFont(ofSize: 16)
 }
